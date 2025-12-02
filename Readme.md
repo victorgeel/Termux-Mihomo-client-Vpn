@@ -24,7 +24,8 @@ pkg update && pkg upgrade
 pkg install python cronie termux-api git
 git clone https://github.com/victorgeel/Termux-Mihomo.git
 cd Termux-Mihomo
-chmod +x ultimate.py```
+chmod +x ultimate.py
+```
  
 
  
