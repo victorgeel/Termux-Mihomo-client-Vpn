@@ -121,9 +121,6 @@ EOF
 git add README.md
 git commit -m "Add Burmese README.md"
 git push origin main
- 
 
- 
 
-🔥 Want me to combine Burmese + English in one README.md with badges and screenshot placeholders for GitHub?
-✔ Yes → I will generate final polished README.md with both languages and visuals. Want me to do that?
+# @Victor
