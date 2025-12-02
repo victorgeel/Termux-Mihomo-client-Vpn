@@ -68,10 +68,11 @@ curl -s "https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates"
 
 ✅ Cron Job Setup
 
-Script run ပြီးနောက် အလိုအလျောက် cron job ထည့်မယ်–
+Script run ပြီးနောက် အလိုအလျောက်
+cron job ထည့်မယ်–
 
  
-0 * * * * /data/data/com.termux/files/home/Termux-Mihomo/ultimate.py
+''0 * * * * /data/data/com.termux/files/home/Termux-Mihomo/ultimate.py''
  
 
 Check:
