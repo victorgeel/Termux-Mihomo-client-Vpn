@@ -24,17 +24,17 @@ pkg update && pkg upgrade
 pkg install python cronie termux-api git
 git clone https://github.com/victorgeel/Termux-Mihomo.git
 cd Termux-Mihomo
-chmod +x ultimate.py
+chmod +x ultimate.py```
  
 
  
 
-✅ အသုံးပြုပုံ
+## ✅ အသုံးပြုပုံ
 
 Script ကို run လုပ်ပါ–
 
  
-./ultimate.py
+```./ultimate.py```
  
 
 Telegram သုံးမလား? (y/n) မေးမယ်
@@ -61,12 +61,12 @@ Bot Token ရယူပါ
 Chat ID ရယူရန်–
 
  
-curl -s "https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates"
+```curl -s "https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates"```
  
 
  
 
-✅ Cron Job Setup
+## ✅ Cron Job Setup
 
 Script run ပြီးနောက် အလိုအလျောက်
 cron job ထည့်မယ်–
