@@ -73,13 +73,15 @@ Script run ပြီးနောက် အလိုအလျောက်
 cron job ထည့်မယ်–
 
  
-''0 * * * * /data/data/com.termux/files/home/Termux-Mihomo/ultimate.py''
+```0 * * * * /data/data/com.termux/files/home/Termux-Mihomo/ultimate.py
+```
  
 
 Check:
 
  
-crontab -l
+```crontab -l
+```
  
 
  
@@ -123,6 +125,7 @@ EOF
 git add README.md
 git commit -m "Add Burmese README.md"
 git push origin main
+```
 
 
 # @Victor
